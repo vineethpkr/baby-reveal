@@ -1,4 +1,4 @@
-# baby-reveal
+# Baby Reveal
 Welcome, fellow engineers, to most important deployment of your lives.
 
 # Project Overview
