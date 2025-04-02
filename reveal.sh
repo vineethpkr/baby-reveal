@@ -30,7 +30,7 @@ echo "\n"
 sleep 3
 
 # Big Reveal
-echo -e "${BLUE}"
+echo "${BLUE}"
 # Delay before each character
 delay=1
 
@@ -127,5 +127,5 @@ echo ""
 
 
 sleep 1
-echo "Estimated arrival: 09-21-2025"
+echo "Estimated arrival: 09-23-2025"
 
